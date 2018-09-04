@@ -53,7 +53,3 @@ npm run dev
 
 * **eslint** - Javascript linter - configuration in **eslintrc.json** file
 * **jshint** - Javascript linter - configuration in **.jshintrc** file
-
-## License
-
-This project is licensed under MIT license.
